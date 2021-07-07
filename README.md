@@ -1,5 +1,5 @@
 # Calculadora_Flutuante
 
-Esse projeto foi criado em html e css. 
+Esse projeto foi criado em HTML, CSS e JavaScript. 
 
 Uma calculadora simples com designer transparente. 
